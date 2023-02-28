@@ -1,6 +1,6 @@
 # API-3DSM
 <p align="center">
-      <img src="/doc/front-end/logo-whatscode.svg" alt="logo da equipe" width="200">
+      <img src="/doc/logo-whatscode.svg" alt="logo da equipe" width="200">
       <h3 align="center"> WhatsCode | Equipe X</h3>
 
 <hr>
