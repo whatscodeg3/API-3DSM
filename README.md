@@ -1,7 +1,7 @@
 # API-3DSM
 <p align="center">
       <img src="/doc/logo-whatscode.svg" alt="logo da equipe" width="200">
-      <h3 align="center"> WhatsCode | Equipe X</h3>
+      <h3 align="center"> WhatsCode | Equipe 3</h3>
 
 <hr>
 
@@ -30,7 +30,7 @@
 
 ## Aprendizagem por Projetos Integrados <a id="api"></a>
 
-  A API (Aprendizagem por Projetos Integrados), desenvolvida no escopo do CADI, é a metodologia de ensino em implantação na Fatec São José dos Campos, desde o Segundo Semestre de 2019, do qual os alunos formam equipes baseadas na metodologia scrum, tendo um aluno como master, Product Owner e os integrates restantes dev team. O time é desafiado por um cliente real (nesse projeto nosso cliente é a NOME DA EMPRESA), a desenvolver uma solução para um problema, tendo que atender requisitos exigidos de tecnologia. <br> 
+  A API (Aprendizagem por Projetos Integrados), desenvolvida no escopo do CADI, é a metodologia de ensino em implantação na Fatec São José dos Campos, desde o Segundo Semestre de 2019, do qual os alunos formam equipes baseadas na metodologia scrum, tendo um aluno como master, Product Owner e os integrates restantes dev team. O time é desafiado por um cliente real (nesse projeto nosso cliente é a Pro4Tech), a desenvolver uma solução para um problema, tendo que atender requisitos exigidos de tecnologia. <br> 
   
   O API segue tendo como pilares os seguintes valores: <br>
  - Real Problem Based Learning (rPBL) <br>
@@ -40,20 +40,41 @@
 <br>
 
 ## :pencil2: Desafio <a id="desafio"></a>
+Uma empresa tem problema na gestão de cobranças. Eles precisam de uma solução que permita o cadastro de clientes, registro de cobranças das parcelas a receber e dos pagamentos efetuados, além da geração de relatórios de cobrança com diferentes tipos de busca por data e situação das parcelas.
+ <br>
 
-. <br>
-
-Proposta: 
+Proposta: Desenvolver um sistema em microsserviços que permite com que os funcinários da empresa consigam cadastrar vendas e ter controle sobre as parcelas a serem pagas por seus clientes, gerando relatórios completos para facilitar a análise de informações.
 
 <br>
 
 ## :dart: Escopo do Projeto <a id="escopo"></a>
 
  > *Requisitos Funcionais*
+ 
+· Cadastro de clientes. <br>
 
+· Registro de parcelas a vencer. <br>
+
+· Registro de baixas de parcelas. <br>
+
+· Gerar relatórios de cobrança. <br>
+<br>
 
  > *Requisitos Não Funcionais*
+ 
+· Documentação com mapeamento das regras de negócio do cliente. <br>
 
+· Java. <br>
+
+· TypeScript. <br>
+
+· BPMN a ser apresentado na primeira Sprint. <br>
+<br>
+
+> *Tecnologias Desejáveis*
+ 
+· MySQL. <br>
+<br>
 
 <br>
 
@@ -61,8 +82,10 @@ Proposta:
 
 | Prioridade | User Stories | Critério de Aceitação | Sprint | Status |
 | :--------: | :----------: | :-------------------: | :----: | :----: |
-
-
+| Alta 🟥 | Eu como um usuário gostaria de uma funcionalidade que permita o cadastro de clientes. | Tem como valor o armazenamento de dados do clientes para gerenciar os pagamentos. | X | 🔄 |
+|  Alta 🟥 | Eu como usuário gostaria de um registro de parcelas que irão vencer a partir das parcelas registradas do cliente. | Tem como valor identificar rapidamente os clientes inadimplentes ou com parcelas a vencer. | X | 🔄 |
+|  Alta 🟥 | Eu como usuário gostaria de um registro de baixas de parcelas realizadas pelo cliente. | Tem como valor identificar rapidamente os clientes inadimplentes. | X | 🔄 |
+|  Alta 🟥 | Eu como usuário gostaria de gerar um relatório completo de cobrança. | Tem como valor visualizar as informações importantes sobre as parcelas de meus clientes, facilitando a análise de informações. | X | 🔄 |
 
 
 <br>
