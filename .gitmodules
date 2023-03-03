@@ -1,3 +1,6 @@
 [submodule "API-3DSM-Backend-Client"]
 	path = API-3DSM-Backend-Client
 	url = https://github.com/whatscodeg3/API-3DSM-Backend-Client.git
+[submodule "API-3DSM-Backend-Purchases"]
+	path = API-3DSM-Backend-Purchases
+	url = https://github.com/whatscodeg3/API-3DSM-Backend-Purchases.git
