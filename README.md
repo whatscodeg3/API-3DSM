@@ -21,7 +21,10 @@
 <br>
 
 <h4 align="center">
- <a href=""><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+ <a href="https://reactjs.org/docs/getting-started.html"><img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+ <a href="https://dev.java/learn/"><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+ <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/"><img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
+ <a href="https://dev.mysql.com/doc/"><img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </h4>
 
 <br>
@@ -108,15 +111,15 @@ Para acessar todos os repositórios utilize a ligação do repositório principa
 
 ## :clipboard: Manual de Instalação e Utilização <a id="manual"></a>
 
-Manual de instalação 
+Manual de instalação: 
 
-Manual de Utilização 
+Manual de Utilização: 
 
 <br>
 
 ## :date: Sprints <a id="sprint"></a>
 
-🔖 SPRINT 1 :  
+🔖 SPRINT 1 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%201))
 
 🔖 SPRINT 2 :  
 
