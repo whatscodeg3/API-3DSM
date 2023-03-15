@@ -10,6 +10,7 @@
 <p align="center">
   <a href ="#api"> Aprendizagem por Projetos Integrados </a> |
   <a href ="#desafio"> Desafio </a>  |   
+  <a href ="#repositorios"> Repositórios </a>  | 
   <a href ="#escopo"> Escopo do Projeto </a>  |  
   <a href ="#backlog"> Backlog das Sprints </a>  | 
   <a href ="#manual"> Manual de Instalação e Utilização  |
@@ -47,6 +48,21 @@ Proposta: Desenvolver um sistema em microsserviços que permite com que os funci
 
 <br>
 
+## :file_folder: Repositórios <a id="repositorios"></a>
+
+Optamos por utilizar um total de 4 repositórios para o projeto, sendo esse como o principal, com todos os repositórios linkados como sub-módulos, um repósitorio destinado ao front-end, e dois repositórios destinados ao back-end, separados por microsserviços.
+
+Para acessar todos os repositórios utilize a ligação do repositório principal, ou acesse pelos seguintes links:
+
+·Repositório Principal: https://github.com/whatscodeg3/API-3DSM <br>
+
+·Repositório Front-End: https://github.com/whatscodeg3/API-3DSM-Frontend <br>
+
+·Repositório Back-End-Client: https://github.com/whatscodeg3/API-3DSM-Backend-Client <br> 
+
+·Repositório Back-End-Purchases: https://github.com/whatscodeg3/API-3DSM-Backend-Purchases <br>
+
+
 ## :dart: Escopo do Projeto <a id="escopo"></a>
 
  > *Requisitos Funcionais*
@@ -78,7 +94,7 @@ Proposta: Desenvolver um sistema em microsserviços que permite com que os funci
 
 <br>
 
-## :dart: Backlog Total e Historias de Usuário <a id="backlog"></a>
+## :bookmark_tabs: Backlog Total e Historias de Usuário <a id="backlog"></a>
 
 | Prioridade | User Stories | Critério de Aceitação | Sprint | Status |
 | :--------: | :----------: | :-------------------: | :----: | :----: |
