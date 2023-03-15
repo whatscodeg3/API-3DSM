@@ -1,7 +1,7 @@
 # API-3DSM
 <p align="center">
       <img src="/doc/logo-whatscode.svg" alt="logo da equipe" width="200">
-      <h3 align="center"> WhatsCode | Equipe 3</h3>
+      <h3 align="center"> WhatsCode | Equipe 4</h3>
 
 <hr>
 
@@ -105,6 +105,10 @@ Para acessar todos os repositórios utilize a ligação do repositório principa
 |  Alta 🟥 | Eu como usuário gostaria de um registro de parcelas que irão vencer a partir das parcelas registradas do cliente. | Tem como valor identificar rapidamente os clientes inadimplentes ou com parcelas a vencer. | X | 🔄 |
 |  Alta 🟥 | Eu como usuário gostaria de um registro de baixas de parcelas realizadas pelo cliente. | Tem como valor identificar rapidamente os clientes inadimplentes. | X | 🔄 |
 |  Alta 🟥 | Eu como usuário gostaria de gerar um relatório completo de cobrança. | Tem como valor visualizar as informações importantes sobre as parcelas de meus clientes, facilitando a análise de informações. | X | 🔄 |
+| Média 🟨 | Eu como administrador gostaria de cadastrar funcionários para o sistema como um financeiro ou um comercial. | Tem como valor distribuir as funções dos empregados na empresa no sistema | X | 🔄 |
+| Média 🟨 | Eu como administrador gostaria que o sistema possua um controle de permissões .| Tem como valor distribuir as funções dos empregados na empresa no sistema | X | 🔄 |
+| Baixa 🟩 | Eu como administrador gostaria que as informações fossem passadas para o banco de dados fora do horário de expediente .| Tem como valor não sobrecarregar o sistema gerando a perda de algum dado | X | 🔄 |
+
 
 
 <br>
@@ -119,13 +123,13 @@ Manual de Utilização:
 
 ## :date: Sprints <a id="sprint"></a>
 
-🔖 SPRINT 1 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%201))
+🔖 SPRINT 1 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%201)) 🔄
 
-🔖 SPRINT 2 :  
+🔖 SPRINT 2 :  🔄
 
-🔖 SPRINT 3 :  
+🔖 SPRINT 3 :  🔄
 
-🔖 SPRINT 4 :  
+🔖 SPRINT 4 :  🔄
 
 <br>
 
