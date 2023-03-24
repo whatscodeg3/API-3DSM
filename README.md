@@ -24,6 +24,7 @@
  <a href="https://reactjs.org/docs/getting-started.html"><img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
  <a href="https://dev.java/learn/"><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/"><img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
+ <a href="https://www.typescriptlang.org"><img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
  <a href="https://dev.mysql.com/doc/"><img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </h4>
 
