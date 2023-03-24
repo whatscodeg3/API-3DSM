@@ -7,8 +7,14 @@ Após a análise de requesitos do cliente chegamos a conclusão que a dor do cli
 
 - Mockup:
 
+<img src="/doc/img/mockup_paginaInicial.png" alt="mockup página inicial" width="500"> <img src="/doc/img/mockup_cadastrar_cliente.PNG" alt="mockup página cadastro cliente" width="500">
 
+<img src="/doc/img/mockup_cadastrar_venda.PNG" alt="mockup página cadastro venda" width="500"> <img src="/doc/img/mockup_listagem_De_vendas.png" alt="mockup página listagem vendas" width="500">
 
+<img src="/doc/img/mockup_modal_infos_clientes.png" alt="mockup modal infos cliente" width="500"> <img src="/doc/img/mockup_modal_infos_vendas.png" alt="mockup modal infos vendas" width="500">
+
+                                                                                
+                                                                                
 - Modelagem do banco:
 
 
