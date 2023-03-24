@@ -5,7 +5,7 @@ Após a análise de requesitos do cliente chegamos a conclusão que a dor do cli
 
 # DoR
 
-- Mockup:
+<h3>- Mockup: </h3>
 
 <img src="/doc/img/mockup_paginaInicial.png" alt="mockup página inicial" width="500"> <img src="/doc/img/mockup_cadastrar_cliente.PNG" alt="mockup página cadastro cliente" width="500">
 
@@ -15,11 +15,16 @@ Após a análise de requesitos do cliente chegamos a conclusão que a dor do cli
 
                                                                                 
                                                                                 
-- Modelagem do banco:
+<hr>                                                                              
+<h3>- Modelagem do banco: </h3>
 
+  •Modelo Conceitual: <br>
+  <img src="/doc/img/modelo_logico_banco.png" alt="modelo logico do banco" width="500">
+  
+  
+  •Modelo Lógico: <br>
+ <img src="/doc/img/modelo_logico_banco.png" alt="modelo logico do banco" width="500">
 
+<hr>
 
-- Burndown da 1 sprint: ?????
-
-
-
+<h3>- Burndown 1ºSprint: <br>
