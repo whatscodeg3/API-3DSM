@@ -36,7 +36,7 @@ Após a análise de requesitos do cliente chegamos a conclusão que a dor do cli
 <h3>- Modelagem do banco: </h3>
 
   •Modelo Conceitual: <br>
-  <img src="/doc/img/modelo_logico_banco.png" alt="modelo logico do banco" width="500">
+  <img src="/doc/img/modelo_conceitual_banco.PNG" alt="modelo logico do banco" width="500">
   
   
   •Modelo Lógico: <br>
