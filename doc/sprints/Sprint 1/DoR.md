@@ -13,7 +13,24 @@ Após a análise de requesitos do cliente chegamos a conclusão que a dor do cli
 
 <img src="/doc/img/mockup_modal_infos_clientes.png" alt="mockup modal infos cliente" width="500"> <img src="/doc/img/mockup_modal_infos_vendas.png" alt="mockup modal infos vendas" width="500">
 
-                                                                                
+
+
+<hr>                                                                              
+<h3>- BPMNs (Business Process Model and Notation): </h3>
+
+  •BPMN Cadastro de Cliente : <br>
+  [Acessar Imagem](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/img/BPMN_cadastroCliente.PNG)
+  <img src="/doc/img/BPMN_cadastroCliente.PNG" alt="BPMN Cadastro Cliente" width="3000">
+  
+  
+   •BPMN Cadastro de Venda : <br>
+  [Acessar Imagem](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/img/BPMN_cadastroVenda.PNG)
+  <img src="/doc/img/BPMN_cadastroVenda.PNG" alt="BPMN Cadastro Venda" width="3000">
+  
+   •BPMN Gerar Relatório : <br>
+  [Acessar Imagem](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/img/BPMN_gerandoRelatorio.PNG)
+  <img src="/doc/img/BPMN_gerandoRelatorio.PNG" alt="BPMN Gerando Relatorio" width="3000">
+                                                                               
                                                                                 
 <hr>                                                                              
 <h3>- Modelagem do banco: </h3>
