@@ -98,6 +98,25 @@ Para acessar todos os repositórios utilize a ligação do repositório principa
 
 <br>
 
+## :scroll: BPMN (Business Process Model and Notation): </a>
+
+O BPMN é uma notação da metodologia de gerenciamento de processos de negócio e trata-se de uma série de ícones padrões para o desenho de processos, o que facilita o entendimento do usuário.
+
+ •BPMN Cadastro de Cliente : <br>
+  [Acessar Imagem](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/img/BPMN_cadastroCliente.PNG)
+  <img src="/doc/img/BPMN_cadastroCliente.PNG" alt="BPMN Cadastro Cliente" width="3000">
+  
+  
+   •BPMN Cadastro de Venda : <br>
+  [Acessar Imagem](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/img/BPMN_cadastroVenda.PNG)
+  <img src="/doc/img/BPMN_cadastroVenda.PNG" alt="BPMN Cadastro Venda" width="3000">
+  
+   •BPMN Gerar Relatório : <br>
+  [Acessar Imagem](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/img/BPMN_gerandoRelatorio.PNG)
+  <img src="/doc/img/BPMN_gerandoRelatorio.PNG" alt="BPMN Gerando Relatorio" width="3000">
+
+<br>
+
 ## :bookmark_tabs: Backlog Total e Historias de Usuário <a id="backlog"></a>
 
 | Prioridade | User Stories | Critério de Aceitação | Sprint | Status |
