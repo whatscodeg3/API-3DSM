@@ -11,7 +11,8 @@
   <a href ="#api"> Aprendizagem por Projetos Integrados </a> |
   <a href ="#desafio"> Desafio </a>  |   
   <a href ="#repositorios"> Repositórios </a>  | 
-  <a href ="#escopo"> Escopo do Projeto </a>  |  
+  <a href ="#escopo"> Escopo do Projeto </a>  |
+  <a href ="#bpmn"> BPMN </a>  |  
   <a href ="#backlog"> Backlog das Sprints </a>  | 
   <a href ="#manual"> Manual de Instalação e Utilização  |
   <a href ="#sprint"> Sprints </a>  | 
@@ -98,7 +99,7 @@ Para acessar todos os repositórios utilize a ligação do repositório principa
 
 <br>
 
-## :scroll: BPMN (Business Process Model and Notation): </a>
+## :scroll: BPMN (Business Process Model and Notation): <a id="bpmn"> </a>
 
 O BPMN é uma notação da metodologia de gerenciamento de processos de negócio e trata-se de uma série de ícones padrões para o desenho de processos, o que facilita o entendimento do usuário.
 
