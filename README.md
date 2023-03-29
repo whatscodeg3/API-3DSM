@@ -137,9 +137,9 @@ O BPMN é uma notação da metodologia de gerenciamento de processos de negócio
 
 ## :clipboard: Manual de Instalação e Utilização <a id="manual"></a>
 
-Manual de instalação: 
+Manual de instalação: ([Acessar Manual de Instalação](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/manuais/instalação.md)) 
 
-Manual de Utilização: 
+Manual de Utilização: ([Acessar Manual de Utilização](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/manuais/utilização.md)) 
 
 <br>
 
