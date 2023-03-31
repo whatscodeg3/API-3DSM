@@ -1,5 +1,5 @@
 
-# Utilizando o Site
+# Utilizando a Aplicação
 
   • Para cadastrar novos clientes no sistema basta acessar a página "Cadastrar Cliente" localizada na página inicial, após isso, preencha os campos necessários,
   lembre-se que todos os dados serão validados, portanto se utilizar um cpf inválido por exemplo, o cadastro não será efetuado.
