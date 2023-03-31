@@ -3,7 +3,12 @@
 
 - Video do projeto rodando:
 
+    [Acessar o Vídeo](https://www.youtube.com)
 
 
-- Explicação do uso das tecnologias no codigo:
+
+- Tecnologias utilizadas no código:
+
+    Java + SpringBoot -> Backend do Sistema (Classes, Rotas de comunicação e conexão com o banco de dados.). <br>
+    React Js -> Frontend do Sistema (Paginas do Sistema em geral).
 
