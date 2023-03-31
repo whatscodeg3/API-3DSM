@@ -48,6 +48,21 @@ npm install
 ```
 cd src
 ```
+- Execute o projeto com o seguinte comando:
+```
+npm run dev
+```
+
+
+### Etapa 5:
+- Acesse o link fornecido no terminal para entrar na aplicação.
+
+### Aplicação Funcionando
+Pronto! A aplicação ja está rodando, caso tenha duvidas para a utilização, acesse:
+[Manual de Utilização](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/manuais/utilização.md)
+
+
+
 
 
 
