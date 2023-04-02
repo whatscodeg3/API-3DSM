@@ -45,3 +45,4 @@ Após a análise de requesitos do cliente chegamos a conclusão que a dor do cli
 <hr>
 
 <h3>- Burndown 1ºSprint: <br>
+<img src="/doc/img/Burndown-1Sprint.png" alt="Burndown Sprint1" width="500">
