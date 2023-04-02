@@ -8,4 +8,4 @@
   
   • Para ter controle das vendas do sistema, temos a página "Listagem de Vendas", acesse-a e terá acesso a todas a vendas do sistema. Caso queria especificar um cliente, basta escrever o CPF de um cliente na barra de pesquisa, e somente suas respectivas vendas irão aparecer.
   
-  • Ainda na página "Listagem de Vendas" caso queira obter detalhes de determinada venda basta clicar em "ver mais" que um modal irá aparecer detalhando suas parcelas, e datas de vencimento e pagamento. Além disso, se quiser acessar detalhes do usuáro que fez a compra basta clicar no campo "CPF", um modal irá aparecer com os detalhes do usuário.
+  • Ainda na página "Listagem de Vendas" caso queira obter detalhes de determinada venda basta clicar em "ver mais" que um modal irá aparecer detalhando suas parcelas, e datas de vencimento e pagamento. Além disso, se quiser acessar detalhes do usuário que fez a compra basta clicar no campo "CPF", um modal irá aparecer com os detalhes do usuário.
