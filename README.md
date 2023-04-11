@@ -27,6 +27,7 @@
  <a href="https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/"><img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
  <a href="https://www.typescriptlang.org"><img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
  <a href="https://dev.mysql.com/doc/"><img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+ <a href="https://docs.docker.com"><img src = "https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
 </h4>
 
 <br>
@@ -125,8 +126,8 @@ O BPMN é uma notação da metodologia de gerenciamento de processos de negócio
 | Alta 🟥 | Eu como um usuário gostaria de uma funcionalidade que permita o cadastro de clientes. | Tem como valor o armazenamento de dados do clientes para gerenciar os pagamentos. | 1 | ✅ |
 | Alta 🟥 | Eu como um usuário gostaria de uma funcionalidade que permita o registro de vendas que automaticamente gere suas parcelas. | Tem como valor armazenar as vendas e gerar suas parcelas para controle de pagamentos. | 1 | ✅ |
 |  Alta 🟥 | Eu como usuário gostaria de um registro das vendas cadastradas e suas respectivas parcelas. | Tem como valor identificar as vendas já cadastradas. | 1 | ✅ |
-|  Alta 🟥 | Eu como usuário gostaria de um registro de baixas de parcelas realizadas pelo cliente. | Tem como valor identificar rapidamente os clientes inadimplentes. | 2-4 | 🔄 |
-|  Alta 🟥 | Eu como usuário gostaria de gerar um relatório completo de cobrança. | Tem como valor visualizar as informações importantes sobre as parcelas de meus clientes, facilitando a análise de informações. | 2-4 | 🔄 |
+|  Alta 🟥 | Eu como usuário gostaria de um registro de baixas de parcelas realizadas pelo cliente. | Tem como valor identificar rapidamente os clientes inadimplentes. | 2 | 🔄 |
+|  Alta 🟥 | Eu como usuário gostaria de gerar um relatório completo de cobrança. | Tem como valor visualizar as informações importantes sobre as parcelas de meus clientes, facilitando a análise de informações. | 2 | 🔄 |
 | Média 🟨 | Eu como administrador gostaria de cadastrar funcionários para o sistema como um financeiro ou um comercial. | Tem como valor distribuir as funções dos empregados na empresa no sistema | 2-4 | 🔄 |
 | Média 🟨 | Eu como administrador gostaria que o sistema possua um controle de permissões .| Tem como valor distribuir as funções dos empregados na empresa no sistema | 2-4 | 🔄 |
 | Baixa 🟩 | Eu como administrador gostaria que as informações fossem passadas para o banco de dados fora do horário de expediente .| Tem como valor não sobrecarregar o sistema gerando a perda de algum dado | 2-4 | 🔄 |
@@ -145,9 +146,9 @@ Manual de Utilização: ([Acessar Manual de Utilização](https://github.com/wha
 
 ## :date: Sprints <a id="sprint"></a>
 
-🔖 SPRINT 1 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%201)) 🔄
+🔖 SPRINT 1 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%201)) ✅
 
-🔖 SPRINT 2 :  🔄
+🔖 SPRINT 2 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%202)) 🔄
 
 🔖 SPRINT 3 :  🔄
 
