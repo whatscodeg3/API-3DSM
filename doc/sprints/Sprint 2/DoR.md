@@ -7,7 +7,7 @@ Após o feedback de entrega da primeira sprint, chegamos a conclusão que consig
 
 <h3>- Mockup: </h3>
 
-<img src="" alt="mockup" width="500"> <img src="" alt="" width="500">
+<img src="/doc/img/mockup_relatorio_filtragem.PNG" alt="Mockup filtragem de relatorio" width="500"> <img src="/doc/img/mockup_relatorio_listagem.PNG" alt="Mockup listagem de relatorio" width="500">
 
 
 
