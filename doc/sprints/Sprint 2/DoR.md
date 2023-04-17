@@ -7,7 +7,8 @@ Após o feedback de entrega da primeira sprint, chegamos a conclusão que consig
 
 <h3>- Mockup: </h3>
 
-<img src="/doc/img/mockup_relatorio_filtragem.PNG" alt="Mockup filtragem de relatorio" width="500"> <img src="/doc/img/mockup_relatorio_listagem.PNG" alt="Mockup listagem de relatorio" width="500">
+<img src="/doc/img/mockup_relatorio_filtros.PNG" alt="Filtragem de relatórios" width="500"> <img src="/doc/img/mockup_relatorio_exibicao_clientes.PNG" alt="Exibição de clientes pós filtragem" width="500">
+<img src="/doc/img/mockup_modal_relatorio_clientes_compras.PNG" alt="Compras de clientes filtradas" width="500"> <img src="/doc/img/mockup_modal_relatorio_clientes_detalhes_de_compras.PNG" alt="Detalhes de compras" width="500">
 
 
 
