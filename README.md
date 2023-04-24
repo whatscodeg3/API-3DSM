@@ -148,7 +148,7 @@ Manual de Utilização: ([Acessar Manual de Utilização](https://github.com/wha
 
 🔖 SPRINT 1 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%201)) ✅
 
-🔖 SPRINT 2 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%202)) 🔄
+🔖 SPRINT 2 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%202)) ✅
 
 🔖 SPRINT 3 :  🔄
 
