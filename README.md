@@ -128,9 +128,9 @@ O BPMN é uma notação da metodologia de gerenciamento de processos de negócio
 |  Alta 🟥 | Eu como usuário gostaria de um registro das vendas cadastradas e suas respectivas parcelas. | Tem como valor identificar as vendas já cadastradas. | 1 | ✅ |
 |  Alta 🟥 | Eu como usuário gostaria de um registro de baixas de parcelas realizadas pelo cliente. | Tem como valor identificar rapidamente os clientes inadimplentes. | 2 | ✅ |
 |  Alta 🟥 | Eu como usuário gostaria de gerar um relatório completo de cobrança. | Tem como valor visualizar as informações importantes sobre as parcelas de meus clientes, facilitando a análise de informações. | 2 | ✅ |
-| Média 🟨 | Eu como administrador gostaria de cadastrar funcionários para o sistema como um financeiro ou um comercial. | Tem como valor distribuir as funções dos empregados na empresa no sistema | 2-4 | 🔄 |
-| Média 🟨 | Eu como administrador gostaria que o sistema possua um controle de permissões .| Tem como valor distribuir as funções dos empregados na empresa no sistema | 2-4 | 🔄 |
-| Baixa 🟩 | Eu como administrador gostaria que as informações fossem passadas para o banco de dados fora do horário de expediente .| Tem como valor não sobrecarregar o sistema gerando a perda de algum dado | 2-4 | 🔄 |
+| Média 🟨 | Eu como administrador gostaria de cadastrar funcionários para o sistema como um financeiro ou um comercial. | Tem como valor distribuir as funções dos empregados na empresa no sistema | 3-4 | 🔄 |
+| Média 🟨 | Eu como administrador gostaria que o sistema possua um controle de permissões .| Tem como valor distribuir as funções dos empregados na empresa no sistema | 3-4 | 🔄 |
+| Baixa 🟩 | Eu como administrador gostaria que as informações fossem passadas para o banco de dados fora do horário de expediente .| Tem como valor não sobrecarregar o sistema gerando a perda de algum dado | 3-4 | 🔄 |
 
 
 
