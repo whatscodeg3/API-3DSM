@@ -26,4 +26,4 @@ Após o feedback de entrega da primeira sprint, chegamos a conclusão que conseg
 
 
 <h3>- Burndown 2º Sprint: <br>
-<img src="" alt="Burndown Sprint1" width="500">
+<img src="/doc/img/Burndown Sprint2.PNG" alt="Burndown Sprint2" width="1000">
