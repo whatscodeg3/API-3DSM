@@ -1,11 +1,6 @@
 
 # DoD
 
-- Video do projeto rodando:
-
-    [Acessar o Vídeo](https://www.youtube.com/)
-
-
 
 - Tecnologias utilizadas:
 
