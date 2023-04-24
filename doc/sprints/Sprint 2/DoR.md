@@ -1,6 +1,6 @@
 
 # 2ª Sprint
-Após o feedback de entrega da primeira sprint, chegamos a conclusão que consiguimos atingir a dor do cliente e entregar um bom MVP, portanto, para o segunda sprint decidimos arrumar detalhes da algumas funcionalidades do sistema entregue na primeira sprint, além de começar a gerar relatórios a partir de filtros especificados, e permitir a atualização e exclusão de clientes no sistema.
+Após o feedback de entrega da primeira sprint, chegamos a conclusão que conseguimos atingir a dor do cliente e entregar um bom MVP, portanto, para o segunda sprint decidimos arrumar detalhes da algumas funcionalidades do sistema entregue na primeira sprint, além de começar a gerar relatórios a partir de filtros especificados, e permitir a atualização e exclusão de clientes no sistema. Além disso, implementamos segurança por tokens nas rotas, e um sistema simples de login.
 
 
 # DoR
@@ -23,16 +23,7 @@ Após o feedback de entrega da primeira sprint, chegamos a conclusão que consig
                                                                                
                                                                                 
 <hr>                                                                              
-<h3>- Modelagem do banco: </h3>
 
-  •Modelo Conceitual: <br>
-  <img src="/doc/img/modelo_conceitual_banco.PNG" alt="modelo logico do banco" width="500">
-  
-  
-  •Modelo Lógico: <br>
- <img src="/doc/img/modelo_logico_banco.png" alt="modelo logico do banco" width="500">
-
-<hr>
 
 <h3>- Burndown 2º Sprint: <br>
 <img src="" alt="Burndown Sprint1" width="500">
