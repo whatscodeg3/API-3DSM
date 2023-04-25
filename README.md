@@ -128,8 +128,8 @@ O BPMN é uma notação da metodologia de gerenciamento de processos de negócio
 |  Alta 🟥 | Eu como usuário gostaria de um registro das vendas cadastradas e suas respectivas parcelas. | Tem como valor identificar as vendas já cadastradas. | 1 | ✅ |
 |  Alta 🟥 | Eu como usuário gostaria de um registro de baixas de parcelas realizadas pelo cliente. | Tem como valor identificar rapidamente os clientes inadimplentes. | 2 | ✅ |
 |  Alta 🟥 | Eu como usuário gostaria de gerar um relatório completo de cobrança. | Tem como valor visualizar as informações importantes sobre as parcelas de meus clientes, facilitando a análise de informações. | 2 | ✅ |
-| Média 🟨 | Eu como administrador gostaria de cadastrar funcionários para o sistema como um financeiro ou um comercial. | Tem como valor distribuir as funções dos empregados na empresa no sistema | 3-4 | 🔄 |
-| Média 🟨 | Eu como administrador gostaria que o sistema possua um controle de permissões .| Tem como valor distribuir as funções dos empregados na empresa no sistema | 3-4 | 🔄 |
+| Média 🟨 | Eu como administrador gostaria de cadastrar funcionários para o sistema como um financeiro ou um comercial. | Tem como valor distribuir as funções dos empregados na empresa no sistema | 3 | 🔄 |
+| Média 🟨 | Eu como administrador gostaria que o sistema possua um controle de permissões .| Tem como valor distribuir as funções dos empregados na empresa no sistema | 3 | 🔄 |
 | Baixa 🟩 | Eu como administrador gostaria que as informações fossem passadas para o banco de dados fora do horário de expediente .| Tem como valor não sobrecarregar o sistema gerando a perda de algum dado | 3-4 | 🔄 |
 
 
@@ -150,7 +150,7 @@ Manual de Utilização: ([Acessar Manual de Utilização](https://github.com/wha
 
 🔖 SPRINT 2 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%202)) ✅
 
-🔖 SPRINT 3 :  🔄
+🔖 SPRINT 3 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%203)) 🔄
 
 🔖 SPRINT 4 :  🔄
 
