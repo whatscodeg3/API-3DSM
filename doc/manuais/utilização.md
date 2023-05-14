@@ -15,3 +15,5 @@
   • Para excluir um cliente acesse a página "Listagem de Clientes" selecione a opção "excluir" do cliente que deseja, assim, ele será excluído do sistema.
   
   • Para gerar um relatório, acesse a página de relatórios, a filtragem de datas irá aparecer, basta selecionar as datas que deseja e a ordenação na caixa de select abaixo, assim, um relatório será gerado, todas os clientes que tiveram vendas cadastradas a partir dos filtros especificados irão aparecer, ao clicar em um cliente um modal com todas as vendas desse cliente no filtro especificado irá aparecer, ao clicar em uma venda, os detalhes dessa venda com o total de parcelas, datas de pagamento e até mesmo a situação geral do cliente será exibida.
+  
+  • Para cadastrar um novo funcionário no sistema basta acessar a página "Cadastrar funcionário", preencha os dados corretamente, selecione o cargo do funcionário cadastrado e clique em "cadastrar", uma mensagem irá aparecer na tela, confirmando o cadastro de um novo funcionário.
