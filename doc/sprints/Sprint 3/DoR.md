@@ -1,6 +1,6 @@
 
 # 3ª Sprint
-Para a terceira sprint, iremos aprimorar funções já implementadas no sistema, além disso, faremos um cadastro de funcionários para o sistema podendo registrar um novo admin, membro comercial ou membro financeiro. Ainda nessa sprint iremos melhorar o sistema de autenticação do sistema, pois agora um funcionário só terá acesso a determinadas funcionalidades do sistema.
+Para a terceira sprint, iremos aprimorar funções já implementadas no sistema, além disso, faremos um cadastro de funcionários para o sistema podendo registrar um novo admin, membro comercial ou membro financeiro. Ainda nessa sprint iremos melhorar o sistema de autenticação do sistema, pois agora um funcionário só terá acesso a determinadas funcionalidades, além disso, a geração de relatórios foi melhorada.
 
 
 # DoR
