@@ -7,11 +7,11 @@ Para a terceira sprint, iremos aprimorar funções já implementadas no sistema,
 
 <h3>- Mockup: </h3>
 
-<img src="" alt="Mockups" width="500"> <img src="" alt="Mockups" width="500">
+<img src="/doc/img/mockup_cadastro_funcionario.PNG" alt="Mockups" width="1000">
                                                                       
                                                                                                                                                                
 <hr>                                                                              
 
 
 <h3>- Burndown 3º Sprint: <br>
-<img src="" alt="Burndown Sprint3" width="1000">
+<img src="/doc/img/BurndownSprint3.PNG" alt="Burndown Sprint3" width="1000">
