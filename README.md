@@ -152,7 +152,7 @@ Manual de Utilização: ([Acessar Manual de Utilização](https://github.com/wha
 
 🔖 SPRINT 3 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%203)) ✅
 
-🔖 SPRINT 4 :  🔄
+🔖 SPRINT 4 :  ([Link da Pasta](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%204)) 🔄
 
 <br>
 
