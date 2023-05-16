@@ -2,7 +2,7 @@
 
 Após a análise de requesitos do cliente chegamos a conclusão que a dor do cliente a ser resolvida seria um melhor controle de parcelas a se receber, podendo ter um controle de adimplência ou inadimplência de seus clientes a partir das vendas cadastradas. Portanto após validar diretamente com o cliente determinamos que na primeira sprint entregariamos como MVP uma versão simplificada do sistema, com a opção de cadastrar um cliente, cadastrar uma venda e listar todas a vendas feitas detalhando parcelas a serem pagas dessa venda, tendo assim um inicio de controle de clientes adimplentes ou inadimplentes.
 
-<h3>- Mockup: </h3>
+## 📌 Mockup:
 
 <img src="/doc/img/mockup_paginaInicial.png" alt="mockup página inicial" width="500"> <img src="/doc/img/mockup_cadastrar_cliente.PNG" alt="mockup página cadastro cliente" width="500">
 
@@ -10,8 +10,7 @@ Após a análise de requesitos do cliente chegamos a conclusão que a dor do cli
 
 <img src="/doc/img/mockup_modal_infos_clientes.png" alt="mockup modal infos cliente" width="500"> <img src="/doc/img/mockup_modal_infos_vendas.png" alt="mockup modal infos vendas" width="500">
 
-<hr>                                                                              
-<h3>- BPMNs (Business Process Model and Notation): </h3>
+## :scroll: BPMN (Business Process Model and Notation): <a id="bpmn"> </a>
 
 •BPMN Cadastro de Cliente : <br>
 [Acessar Imagem](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/img/BPMN_cadastroCliente.PNG)
@@ -25,8 +24,7 @@ Após a análise de requesitos do cliente chegamos a conclusão que a dor do cli
 [Acessar Imagem](https://github.com/whatscodeg3/API-3DSM/blob/main/doc/img/BPMN_gerandoRelatorio.PNG)
 <img src="/doc/img/BPMN_gerandoRelatorio.PNG" alt="BPMN Gerando Relatorio" width="3000">
 
-<hr>                                                                              
-<h3>- Modelagem do banco: </h3>
+## 📝 Modelagem do banco:
 
 •Modelo Conceitual: <br>
 <img src="/doc/img/modelo_conceitual_banco.PNG" alt="modelo logico do banco" width="500">
@@ -34,7 +32,6 @@ Após a análise de requesitos do cliente chegamos a conclusão que a dor do cli
 •Modelo Lógico: <br>
 <img src="/doc/img/modelo_logico_banco.png" alt="modelo logico do banco" width="500">
 
-<hr>
 
-<h3>- Burndown 1ºSprint: <br>
+## 📉 Burndown 1º Sprint:
 <img src="/doc/img/Burndown-1Sprint.png" alt="Burndown Sprint1" width="500">
