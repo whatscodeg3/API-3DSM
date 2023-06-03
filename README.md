@@ -129,8 +129,7 @@ O BPMN é uma notação da metodologia de gerenciamento de processos de negócio
 |  Alta 🟥   |                   Eu como usuário gostaria de um registro de baixas de parcelas realizadas pelo cliente.                   |                               Tem como valor identificar rapidamente os clientes inadimplentes.                                |   2    |   ✅   |
 |  Alta 🟥   |                            Eu como usuário gostaria de gerar um relatório completo de cobrança.                            | Tem como valor visualizar as informações importantes sobre as parcelas de meus clientes, facilitando a análise de informações. |   2    |   ✅   |
 |  Média 🟨  |        Eu como administrador gostaria de cadastrar funcionários para o sistema como um financeiro ou um comercial.         |                           Tem como valor distribuir as funções dos empregados na empresa no sistema                            |   3    |   ✅   |
-|  Média 🟨  |                      Eu como administrador gostaria que o sistema possua um controle de permissões .                       |                           Tem como valor distribuir as funções dos empregados na empresa no sistema                            |   4    |   🔄   |
-|  Baixa 🟩  |  Eu como administrador gostaria que as informações fossem passadas para o banco de dados fora do horário de expediente .   |                            Tem como valor não sobrecarregar o sistema gerando a perda de algum dado                            |   4    |   🔄   |
+|  Média 🟨  |                      Eu como administrador gostaria que o sistema possua um controle de permissões .                       |                           Tem como valor distribuir as funções dos empregados na empresa no sistema                            |   4    |   ✅   |
 
 <br>
 
@@ -150,7 +149,7 @@ Manual de Utilização: ([Acessar Manual de Utilização](https://github.com/wha
 
 🔖 SPRINT 3 : ([Relatório da Sprint](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%203)) ✅
 
-🔖 SPRINT 4 : ([Relatório da Sprint](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%204)) 🔄
+🔖 SPRINT 4 : ([Relatório da Sprint](https://github.com/whatscodeg3/API-3DSM/tree/main/doc/sprints/Sprint%204)) ✅
 
 <br>
 
@@ -158,9 +157,8 @@ Manual de Utilização: ([Acessar Manual de Utilização](https://github.com/wha
 
 |     Membro      |    Função     |                                                                        Github                                                                         |                                                                                             Linkedin                                                                                             |
 | :-------------: | :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Matheus Augusto | Scrum Master  | <a href="https://github.com/MatheusAJesus"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/matheus-augusto-de-jesus-albernaz-918536216"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  Jonatas Dallo  | Scrum Master | <a href="https://github.com/Jonatas-Dallo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |         <a href="https://www.linkedin.com/in/jonatas-mathias-147638206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>          |
 |  Lucas Medici   | Product Owner |  <a href="https://github.com/LucasMedici"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |           <a href="https://www.linkedin.com/in/lucas-medici-a15971237"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>            |
 | Thiago Oliveira | Desenvolvedor |   <a href="https://github.com/ThiagoOAL"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>   |               <a href="https://www.linkedin.com/in/thiagoleite042"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>                |
 |  Kevin Ribeiro  | Desenvolvedor |  <a href="https://github.com/KevinRomRib"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |                 <a href="https://www.linkedin.com/in/kevinrribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">                  |
-|  Jonatas Dallo  | Desenvolvedor | <a href="https://github.com/Jonatas-Dallo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |         <a href="https://www.linkedin.com/in/jonatas-mathias-147638206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>          |
 |   Pedro Corrá   | Desenvolvedor |    <a href="https://github.com/PHCorra"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>    |             <a href="https://www.linkedin.com/in/pedro-c-95b57212a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>              |
