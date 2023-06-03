@@ -1,6 +1,6 @@
-# 3ª Sprint
+# 4ª Sprint
 
-Para a quarta sprint...
+Para a quarta sprint aprimoramos funcionalidades já feitas no sistema, como a atualização de clientes e a geração de relatórios, além disso implementamos observações feitas pelo cliente em algumas partes do sistema. Para finalizar implementamos uma página de controle de permissões de funcionários, para que assim um administrador controle as permissões de determinados funcionários cadastrados, além disso, agora qualquer alteração feita por um funcionário fica salva no banco de dados, para que tenham o controle das ações de cada um.
 
 ## 📌 Mockup:
 
