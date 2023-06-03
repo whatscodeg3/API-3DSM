@@ -18,6 +18,6 @@
   
   • Para cadastrar um novo funcionário no sistema basta acessar a página "Cadastrar funcionário", preencha os dados corretamente, selecione o cargo do funcionário cadastrado e clique em "cadastrar", uma mensagem irá aparecer na tela, confirmando o cadastro de um novo funcionário.
   
-  • Para atualizar as permissões de um funcionáro já cadastrado basta acessar a página "Listagem Funcionários", clicar em "Editar Permissões" no funcionário desejado, selecionar a nova permissão do funcionário e clicar em "atualizar", assim a tela irá recarregar e a permissão do funcionário será atualizada.
+  • Para atualizar as permissões de um funcionário já cadastrado basta acessar a página "Listagem Funcionários", clicar em "Editar Permissões" no funcionário desejado, selecionar a nova permissão do funcionário e clicar em "atualizar", assim a tela irá recarregar e a permissão do funcionário será atualizada.
 
-  • Para excluir um funcionáro já cadastrado basta acessar a página "Listagem Funcionários", clicar em "Excluir" no funcionário desejado, assim a página será recarregada e o funcionário será excluido do sistema.
+  • Para excluir um funcionário já cadastrado basta acessar a página "Listagem Funcionários", clicar em "Excluir" no funcionário desejado, assim a página será recarregada e o funcionário será excluido do sistema.
