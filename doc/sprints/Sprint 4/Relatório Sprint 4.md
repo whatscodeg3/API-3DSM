@@ -4,7 +4,8 @@ Para a quarta sprint aprimoramos funcionalidades já feitas no sistema, como a a
 
 ## 📌 Mockup:
 
-<img src="" alt="Mockups" width="1000">
+<img src="/doc/img/mockup_listagem_funcionarios.png" alt="Mockups" width="1000">
+<img src="/doc/img/mockup_listagem_funcionarios_permissoes.png" alt="Mockups" width="1000">
 
 ## :scroll: BPMN (Business Process Model and Notation): <a id="bpmn"> </a>
 
@@ -29,4 +30,4 @@ Para a quarta sprint aprimoramos funcionalidades já feitas no sistema, como a a
 <img src="/doc/img/modelo_logico_banco.png" alt="modelo logico do banco" width="500">
 
 ## 📉 Burndown 4º Sprint:
-<img src="" alt="Burndown Sprint4" width="1000">
+<img src="/doc/img/Burndown-4Sprint.png" alt="Burndown Sprint4" width="1000">
